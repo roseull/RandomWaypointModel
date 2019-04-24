@@ -2,7 +2,7 @@
 
 Description
 -----------
-This is a python 3 code library for simulation of mobility models. Generate random way point model for sensor network[[1]](#references).
+This is a python 3 code library for simulation of mobility models. Generate random way point model for sensor network [[1]](#references).
 
 Dependencies
 ------------
