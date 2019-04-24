@@ -33,6 +33,7 @@ You can also iterate over the positions produced in each step:
 Result
 --------
 The trajectory of the sensor nodes is shown below:
+
 ![Alt text]( results.png?raw=true "")<br />
 
 References
